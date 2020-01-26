@@ -1,0 +1,17 @@
+.container .item {
+    width: 300px;
+    margin: 20px;
+   
+  }
+  
+
+
+  .container {
+      display: flex;
+  }
+
+
+
+  .container .heroitem {
+      
+  }
