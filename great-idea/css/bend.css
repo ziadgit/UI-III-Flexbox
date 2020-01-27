@@ -50,4 +50,25 @@
 
 
 
-  
+  #start
+{
+	border: 1px solid black;
+	box-sizing: border-box;
+	display: inline-block;
+	height: 40px;
+	margin-left: 100px;
+	margin-top: 5px;
+	padding: 10px;
+	text-align: center;
+	width: 185px;
+}
+#start a
+{
+	color: black;
+	display: inline-block;
+	text-decoration: none;
+}
+
+#middle-img {
+    width: 100%;
+}
