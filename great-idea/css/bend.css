@@ -11,22 +11,18 @@
   }
 
   nav {
-      width:700px;
+      max-width:1024px;
       display: flex;
       justify-content: space-between;
   }
 
-  #nav-container {
-    width: 800px;
-    display:flex;
-  }
-  
-  #nav-container div:last-child {
- 
-    margin-left: auto;
-    display:flex;
-  }
 
+  
+ 
+#page {
+    max-width: 1024px;
+  margin: auto;
+}
   nav a {
      text-decoration: none;
   }
