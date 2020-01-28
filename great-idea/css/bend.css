@@ -1,0 +1,126 @@
+.container .item {
+    width: 300px;
+    margin: 20px;
+   
+  }
+.hero-container  {
+    display:flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding:20px;
+}
+  .hero-container .heroitem {
+      max-width: 600px;
+      
+  }
+  
+#callout h1 {
+    font-size: 80px;
+    text-align:center;
+    margin: 20px;
+    padding:20px;
+}
+
+#hero {
+    max-width:1024px;
+}
+  .container {
+      display: flex;
+  }
+
+  nav {
+      max-width:1024px;
+      display: flex;
+      justify-content: space-between;
+      margin: 20px;
+    padding:20px;
+  }
+
+
+  
+ 
+#page {
+    max-width: 1024px;
+  margin: auto;
+}
+  nav a {
+     text-decoration: none;
+     color: grey;
+  }
+
+
+
+  #start
+{
+	border: 1px solid black;
+	box-sizing: border-box;
+	display: inline-block;
+	height: 40px;
+	margin-left: 100px;
+	margin-top: 5px;
+	padding: 10px;
+	text-align: center;
+	width: 185px;
+}
+#start a
+{
+	color: black;
+	display: inline-block;
+	text-decoration: none;
+}
+
+#middle-img {
+    width: 100%;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+  }
+
+  ul {
+      list-style-type: square;
+      margin:10px;
+      padding:10px;
+  }
+  .service {
+      margin:20px;
+      padding:20px;
+      background: #F0F0F0;
+      border: solid 1px black;
+  }
+
+  #service-facts {
+      border-top:solid 2px black;
+      padding:20px;
+      margin: 20px;
+  }
+
+  #services-headline {
+      padding: 10px;
+      margin:  10px;
+      border-bottom: solid 1px black;
+  }
+
+
+  #services a {
+      display: block;
+      font-size:12px;
+      width: 100px;
+      margin:15px 0 0 0;
+        padding:10px;
+        border-radius:5px;
+        text-align: center;
+        text-decoration: none;
+        color: black;
+      background: white;
+      border: solid 1px black;
+
+  }
